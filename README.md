@@ -10,7 +10,7 @@
 
 ![Bueno GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBueno0511&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno0511&layout=compact)](https://github.com/GabrielBueno0511/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno0511&layout=compact)](https://github.com/GabrielBueno0511/github-readme-stats&theme=tokyonight)
 
 
 ### Tecnologias que utilizo:
