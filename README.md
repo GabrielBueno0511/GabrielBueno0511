@@ -18,10 +18,11 @@
 <div style="display: inline_block"></br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Python" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarcas-logos.net%2Fwp-content%2Fuploads%2F2020%2F11%2FPython-logo.png&imgrefurl=https%3A%2F%2Fmarcas-logos.net%2Fpython-logo%2F&tbnid=Y8Ohua7ZHmpzyM&vet=12ahUKEwiC-bjq3sP0AhUfM7kGHR9ADFsQMygBegUIARCzAQ..i&docid=PGSjreWNMFRLEM&w=5000&h=1451&itg=1&q=loho%20python&client=opera-gx&ved=2ahUKEwiC-bjq3sP0AhUfM7kGHR9ADFsQMygBegUIARCzAQ">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   
 </div>
 
